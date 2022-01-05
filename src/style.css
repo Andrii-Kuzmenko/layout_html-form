@@ -1,15 +1,8 @@
-.label {
+.form-field:not(:last-child) {
+  display: block;
   margin-bottom: 10px;
 }
 
-.fieldset {
+.big-block {
   margin-bottom: 20px;
-}
-
-.label2 {
-  margin-top: 10px;
-}
-
-.label3 {
-  margin-top: 12px;
 }
